@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167157499119",
+    "project_id": "flutter-uber-clone-with-c5a68",
+    "storage_bucket": "flutter-uber-clone-with-c5a68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167157499119:android:84022e6f3cb1c4518ec71a",
+        "android_client_info": {
+          "package_name": "com.muhammadali.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAau-Xv34QVFguKf6vBV4u22Wtsrqrr5gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
